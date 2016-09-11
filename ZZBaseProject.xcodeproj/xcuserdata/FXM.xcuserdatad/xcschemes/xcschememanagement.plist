@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>ZZChuanJiaBao.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>D781F90B1D85285E00F4BFAA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>D7CAD9291D84462A00A96D9B</key>
 		<dict>
 			<key>primary</key>

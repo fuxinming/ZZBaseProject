@@ -1,0 +1,14 @@
+//
+//  ZZBaseProject.pch
+//  ZZBaseProject
+//
+//  Created by 付新明 on 16/9/11.
+//  Copyright © 2016年 付新明. All rights reserved.
+//
+
+#ifndef ZZBaseProject_pch
+#define ZZBaseProject_pch
+
+#import "CJBHeader.h"
+
+#endif /* ZZBaseProject_pch */

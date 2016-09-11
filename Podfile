@@ -1,0 +1,7 @@
+platform :ios,      '7.0'
+pod 'AFNetworking'
+pod 'MBProgressHUD'  
+pod 'RETableViewManager'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'BmobSDK'
